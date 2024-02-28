@@ -1,0 +1,9 @@
+# Byte-compiled files
+__pycache__/
+
+# Environment
+.env
+.venv/
+
+# IntelliJ
+.idea/
